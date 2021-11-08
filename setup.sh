@@ -22,7 +22,6 @@ wget -O /etc/set.sh "https://raw.githubusercontent.com/MMemekbau144/yahaha/main/
 chmod +x /etc/set.sh
 history -c
 echo "1.2" > /home/ver
-clear
 echo " "
 echo "Installation has been completed!!"
 echo " "
